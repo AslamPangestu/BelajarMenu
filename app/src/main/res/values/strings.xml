@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppMenuAndWidget</string>
+    <string-array name="data">
+        <item>isi 1</item>
+        <item>isi 2</item>
+        <item>isi 3</item>
+        <item>isi 4</item>
+        <item>isi 5</item>
+        <item>isi 6</item>
+        <item>isi 7</item>
+        <item>isi 8</item>
+        <item>isi 9</item>
+    </string-array>
+</resources>

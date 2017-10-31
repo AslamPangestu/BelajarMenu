@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_share"
+        android:icon="@android:drawable/ic_menu_share"
+        android:title="share" />
+    <item
+        android:id="@+id/action2"
+        android:title="action2" />
+    <item
+        android:id="@+id/action3"
+        android:title="action3" />
+    <item
+        android:id="@+id/action4"
+        android:title="action4" />
+    <item
+        android:id="@+id/action5"
+        android:title="action5" />
+</menu>
